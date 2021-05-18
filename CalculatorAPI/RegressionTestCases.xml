@@ -1,0 +1,13 @@
+<suite name="RegressionTest">
+<parameter name="RequestID" value="Regression1"/>
+<groups>
+<run>
+	<include name="RegressionTest"/>
+</run>
+</groups>
+<test name ="Addition">
+<classes>
+<class name="QualitykioskTraining.CalculatorAPI.Addition"/>
+</classes>
+</test>
+</suite>

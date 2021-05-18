@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-20T09:17:53 IST" name="Testing" finished-at="2021-04-20T09:17:53 IST" duration-ms="387">
+    <groups>
+    </groups>
+    <test started-at="2021-04-20T09:17:53 IST" name="Addition Testing" finished-at="2021-04-20T09:17:53 IST" duration-ms="156">
+      <class name="QualitykioskTraining.CalculatorAPI.Addition">
+        <test-method is-config="true" signature="Init()[pri:0, instance:QualitykioskTraining.CalculatorAPI.Addition@6b1274d2]" started-at="2021-04-20T09:17:53 IST" name="Init" finished-at="2021-04-20T09:17:53 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method is-config="true" signature="ReinitialiseResultVar()[pri:0, instance:QualitykioskTraining.CalculatorAPI.Addition@6b1274d2]" started-at="2021-04-20T09:17:53 IST" name="ReinitialiseResultVar" finished-at="2021-04-20T09:17:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReinitialiseResultVar -->
+        <test-method signature="TestAddition()[pri:1, instance:QualitykioskTraining.CalculatorAPI.Addition@6b1274d2]" started-at="2021-04-20T09:17:53 IST" name="TestAddition" finished-at="2021-04-20T09:17:53 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAddition -->
+        <test-method is-config="true" signature="ReinitialiseResultVar()[pri:0, instance:QualitykioskTraining.CalculatorAPI.Addition@6b1274d2]" started-at="2021-04-20T09:17:53 IST" name="ReinitialiseResultVar" finished-at="2021-04-20T09:17:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReinitialiseResultVar -->
+        <test-method signature="TestAdditionWithZero()[pri:2, instance:QualitykioskTraining.CalculatorAPI.Addition@6b1274d2]" started-at="2021-04-20T09:17:53 IST" name="TestAdditionWithZero" finished-at="2021-04-20T09:17:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAdditionWithZero -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:QualitykioskTraining.CalculatorAPI.Addition@6b1274d2]" started-at="2021-04-20T09:17:53 IST" name="Teardown" finished-at="2021-04-20T09:17:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- QualitykioskTraining.CalculatorAPI.Addition -->
+    </test> <!-- Addition Testing -->
+    <test started-at="2021-04-20T09:17:53 IST" name="Subtraction Testing" finished-at="2021-04-20T09:17:53 IST" duration-ms="12">
+      <class name="QualitykioskTraining.CalculatorAPI.TestingSubtractionTestCases">
+        <test-method is-config="true" signature="Init()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestingSubtractionTestCases@448ff1a8]" started-at="2021-04-20T09:17:53 IST" name="Init" finished-at="2021-04-20T09:17:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method is-config="true" signature="ReInitialise()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestingSubtractionTestCases@448ff1a8]" started-at="2021-04-20T09:17:53 IST" name="ReInitialise" finished-at="2021-04-20T09:17:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReInitialise -->
+        <test-method signature="TestSubtractionWithPositiveNumbers()[pri:1, instance:QualitykioskTraining.CalculatorAPI.TestingSubtractionTestCases@448ff1a8]" started-at="2021-04-20T09:17:53 IST" name="TestSubtractionWithPositiveNumbers" finished-at="2021-04-20T09:17:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSubtractionWithPositiveNumbers -->
+        <test-method is-config="true" signature="ReInitialise()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestingSubtractionTestCases@448ff1a8]" started-at="2021-04-20T09:17:53 IST" name="ReInitialise" finished-at="2021-04-20T09:17:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReInitialise -->
+        <test-method signature="TestSubtractionWith1Positive1NegativeNumbers()[pri:2, instance:QualitykioskTraining.CalculatorAPI.TestingSubtractionTestCases@448ff1a8]" started-at="2021-04-20T09:17:53 IST" name="TestSubtractionWith1Positive1NegativeNumbers" finished-at="2021-04-20T09:17:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSubtractionWith1Positive1NegativeNumbers -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestingSubtractionTestCases@448ff1a8]" started-at="2021-04-20T09:17:53 IST" name="Teardown" finished-at="2021-04-20T09:17:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- QualitykioskTraining.CalculatorAPI.TestingSubtractionTestCases -->
+    </test> <!-- Subtraction Testing -->
+    <test started-at="2021-04-20T09:17:53 IST" name="Multiplication Testing" finished-at="2021-04-20T09:17:53 IST" duration-ms="39">
+      <class name="QualitykioskTraining.CalculatorAPI.TestMultiplication">
+        <test-method is-config="true" signature="Init()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestMultiplication@4de5031f]" started-at="2021-04-20T09:17:53 IST" name="Init" finished-at="2021-04-20T09:17:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method is-config="true" signature="Reinitialize()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestMultiplication@4de5031f]" started-at="2021-04-20T09:17:53 IST" name="Reinitialize" finished-at="2021-04-20T09:17:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reinitialize -->
+        <test-method signature="TestMultiplicationWithPositiveValues(int,int,int)[pri:1, instance:QualitykioskTraining.CalculatorAPI.TestMultiplication@4de5031f]" started-at="2021-04-20T09:17:53 IST" name="TestMultiplicationWithPositiveValues" data-provider="ProvidePositiveValue" finished-at="2021-04-20T09:17:53 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMultiplicationWithPositiveValues -->
+        <test-method is-config="true" signature="Reinitialize()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestMultiplication@4de5031f]" started-at="2021-04-20T09:17:53 IST" name="Reinitialize" finished-at="2021-04-20T09:17:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reinitialize -->
+        <test-method signature="TestMultiplicationWithPositiveValues(int,int,int)[pri:1, instance:QualitykioskTraining.CalculatorAPI.TestMultiplication@4de5031f]" started-at="2021-04-20T09:17:53 IST" name="TestMultiplicationWithPositiveValues" data-provider="ProvidePositiveValue" finished-at="2021-04-20T09:17:53 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMultiplicationWithPositiveValues -->
+        <test-method is-config="true" signature="Reinitialize()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestMultiplication@4de5031f]" started-at="2021-04-20T09:17:53 IST" name="Reinitialize" finished-at="2021-04-20T09:17:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reinitialize -->
+        <test-method signature="TestMultiplicationWithPositiveValues(int,int,int)[pri:1, instance:QualitykioskTraining.CalculatorAPI.TestMultiplication@4de5031f]" started-at="2021-04-20T09:17:53 IST" name="TestMultiplicationWithPositiveValues" data-provider="ProvidePositiveValue" finished-at="2021-04-20T09:17:53 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2000000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMultiplicationWithPositiveValues -->
+      </class> <!-- QualitykioskTraining.CalculatorAPI.TestMultiplication -->
+    </test> <!-- Multiplication Testing -->
+    <test started-at="2021-04-20T09:17:53 IST" name="Division Testing" finished-at="2021-04-20T09:17:53 IST" duration-ms="21">
+      <class name="QualitykioskTraining.CalculatorAPI.TestDivision">
+        <test-method is-config="true" signature="CreateObj()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestDivision@534df152]" started-at="2021-04-20T09:17:53 IST" name="CreateObj" finished-at="2021-04-20T09:17:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateObj -->
+        <test-method is-config="true" signature="Reinitialize()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestDivision@534df152]" started-at="2021-04-20T09:17:53 IST" name="Reinitialize" finished-at="2021-04-20T09:17:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reinitialize -->
+        <test-method signature="TestDivisionWithPositiveValues()[pri:1, instance:QualitykioskTraining.CalculatorAPI.TestDivision@534df152]" started-at="2021-04-20T09:17:53 IST" name="TestDivisionWithPositiveValues" finished-at="2021-04-20T09:17:53 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDivisionWithPositiveValues -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestDivision@534df152]" started-at="2021-04-20T09:17:53 IST" name="AfterMethod" finished-at="2021-04-20T09:17:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="Reinitialize()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestDivision@534df152]" started-at="2021-04-20T09:17:53 IST" name="Reinitialize" finished-at="2021-04-20T09:17:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reinitialize -->
+        <test-method signature="TestDivisionWithnegativeValues()[pri:1, instance:QualitykioskTraining.CalculatorAPI.TestDivision@534df152]" started-at="2021-04-20T09:17:53 IST" name="TestDivisionWithnegativeValues" finished-at="2021-04-20T09:17:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDivisionWithnegativeValues -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestDivision@534df152]" started-at="2021-04-20T09:17:53 IST" name="AfterMethod" finished-at="2021-04-20T09:17:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="ReleaseObj()[pri:0, instance:QualitykioskTraining.CalculatorAPI.TestDivision@534df152]" started-at="2021-04-20T09:17:53 IST" name="ReleaseObj" finished-at="2021-04-20T09:17:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReleaseObj -->
+      </class> <!-- QualitykioskTraining.CalculatorAPI.TestDivision -->
+    </test> <!-- Division Testing -->
+  </suite> <!-- Testing -->
+</testng-results>

@@ -1,0 +1,27 @@
+<suite name="Testing">
+<parameter name="RequestID" value="Req100"/>
+<test name="Addition Testing">
+<classes>
+<class name="QualitykioskTraining.CalculatorAPI.Addition"/>
+</classes>
+</test>
+
+<test name="Subtraction Testing">
+<classes>
+<class name="QualitykioskTraining.CalculatorAPI.TestingSubtractionTestCases"/>
+</classes>
+</test>
+
+<test name="Multiplication Testing">
+<classes>
+<class name="QualitykioskTraining.CalculatorAPI.TestMultiplication"/>
+</classes>
+</test>
+
+<test name="Division Testing">
+<classes>
+<class name="QualitykioskTraining.CalculatorAPI.TestDivision"/>
+</classes>
+</test>
+
+</suite>
